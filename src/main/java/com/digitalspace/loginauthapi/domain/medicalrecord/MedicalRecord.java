@@ -27,7 +27,6 @@ public class MedicalRecord {
     private Patient patient;
 
     private LocalDate creationDate;
-    private String allergies;
     private Boolean cognitiveLimitations;
     private Boolean locomotionLimitations;
     private Boolean visionLimitations;
